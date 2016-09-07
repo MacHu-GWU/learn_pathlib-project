@@ -1,0 +1,1 @@
+`pathlib <https://docs.python.org/3/library/pathlib.html>`_ 是一个第三方库, 是在os库上的扩展。在Python3.4版本中被引入作为标准库。是一个非常优秀, 性能超群, 功能强大的用于处理文件路径的库。
